@@ -10,14 +10,12 @@
 */
 // In js/exercise-00.js
 
-// Declare constants of each primitive type
 const myString = "Hello, world!";
 const myNumber = 42;
 const myBoolean = true;
 const myNull = null;
 const myUndefined = undefined;
 
-// Log each variable to the terminal
 console.log("String:", myString);
 console.log("Number:", myNumber);
 console.log("Boolean:", myBoolean);
